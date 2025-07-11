@@ -69,3 +69,26 @@ nav{
     font-size: 34px;
     font-weight: 900;
 }
+/* action section */
+.action{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    padding: 120px 170px;
+}
+.action-title{
+    font-size: 42px;
+        
+}
+.action-titlebar{
+    gap: 23px;
+    margin-right: 550px;
+}
+.action-disc{
+    color: rgba(37, 36, 50, 0.5);
+    font-size: 24px;
+    line-height: 30px;  
+}
+.action-img{
+    border-radius: 48px;
+}
